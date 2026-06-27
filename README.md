@@ -14,7 +14,7 @@ This project implements a feature engineering pipeline for a Heart Disease Predi
 
  Project Structure
 
-```text
+text
 data/
 models/
 outputs/
@@ -25,7 +25,7 @@ leakage_check.py
 main.py
 README.md
 requirements.txt
-```
+
 
  Technologies Used
 
@@ -38,10 +38,10 @@ requirements.txt
 
  How to Run
 
-`bash
+bash
 pip install -r requirements.txt
 python main.py
-```
+
 
  Outputs
 
